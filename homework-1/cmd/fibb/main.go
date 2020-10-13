@@ -8,4 +8,6 @@ import (
 
 func main() {
 	fmt.Println(fibb.Fib(3))
+	fmt.Println(fibb.Fib(5))
+	fmt.Println(fibb.Fib(12))
 }
